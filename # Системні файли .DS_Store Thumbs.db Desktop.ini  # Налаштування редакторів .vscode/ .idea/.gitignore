@@ -1,8 +1,0 @@
-# Системні файли
-.DS_Store
-Thumbs.db
-Desktop.ini
-
-# Налаштування редакторів
-.vscode/
-.idea/
